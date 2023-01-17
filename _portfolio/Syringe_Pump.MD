@@ -14,7 +14,8 @@ gallery:
 
 ## Required Parts
 
-### Off-the-Shelf parts
+#### Off-the-Shelf parts
+
 | 2000 mm lead screw w/ 2 mm pitch & lead |
 | 1/4 x 8 mm flexible coupler |
 | 200 mm linear rod with 8 mm diameter |
@@ -28,7 +29,8 @@ gallery:
 | Limit Switch |
 | RGB Common Cathode LED |
 
-### 3D Printed parts
+#### 3D Printed parts
+
 | Pump Base (Bottom) |
 | Pump Base (Top) |
 | Syringe Body Support |
