@@ -24,7 +24,7 @@ Additionally, Yadale has a working knowledge of several programming langauges us
 * MatLAB
 * LabView
 
-## Digital fabrication
+## Digital Fabrication Tools
 Yadale can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. Yadale has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
