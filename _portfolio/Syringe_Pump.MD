@@ -16,8 +16,8 @@ gallery:
 
 #### Off-the-Shelf parts
 
-| 2000 mm lead screw w/ 2 mm pitch & lead |
-| 1/4 x 8 mm flexible coupler |
+| 200 mm lead screw w/ 2 mm pitch & lead |
+| 1/4" x 8 mm flexible coupler |
 | 200 mm linear rod with 8 mm diameter |
 | LM8UU linear bearing for 8 mm diameter rod |
 | Nema 17 Stepper Motor |
