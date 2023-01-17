@@ -12,6 +12,6 @@ gallery:
 ---
 
 # CAD Model
-<<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4320bbce97815dc8f2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4320bbce97815dc8f2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Syringe Pump Gallery" %}
