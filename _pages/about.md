@@ -1,20 +1,28 @@
 ---
 
-title: "About David Florian"
+title: "About Yadale Gebriel"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
-
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * B.S. Mechanical Engineering (Spring '24)
+   * Minors in Engineering Management and Digital Fabrication
 
 ## Technical Skills
+
+Yadale is familiar with a number of computer aided design (CAD) programs including:
+* Solidworks
+* Creo Parameteric
+* Autodesk Fusion 360
+* AutoCAD LT
+
+Additionally, Yadale has a working knowledge of several programming langauges used in industry including:
+* Java
+* Python
+* MatLAB
+* LabView
 
 David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
 
@@ -23,9 +31,3 @@ David can operate a number of different computer controlled (CNC) fabrication to
 * Selective Laser Sintering (SLS)
 * 3D Inkjet Printing
 * Bioplotting
-
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-![David Florian](/assets/img/David_Headshot_web2.jpg)
