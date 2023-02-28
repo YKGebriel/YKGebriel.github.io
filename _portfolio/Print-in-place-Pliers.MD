@@ -10,7 +10,7 @@ gallery:
    
 ---
 ## Project Description
-
+   Design and fabricated multi-material needle nose pliers capable of gripping and plastic pellets. These pellets have an appwoximate diameter of 3 mm.
 ## Design Features
 
 ## Plier Specifications
