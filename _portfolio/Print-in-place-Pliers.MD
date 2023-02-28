@@ -20,9 +20,9 @@ gallery:
 ## Print Settings
 ### Filament Settings
   || TPU Settings | PLA Settings |
-  | Extruder Temperature | 240 C | 215 C
-  | Bed Temperature | __ | __ |
-  | Max Print Speed | 25 mm/s | __ |
+  | Extruder Temperature | 240 C | 215 C (first layer), 210 C (subsequet layers) |
+  | Bed Temperature | 60 C | 60 C |
+  | Max Print Speed | 25 mm/s | N/A |
   | Retraction Speed | 15 mm/s | 40 mm/s |
 
 ### Printer Settings
