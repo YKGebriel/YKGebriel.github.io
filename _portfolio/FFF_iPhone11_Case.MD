@@ -2,8 +2,8 @@
 title: "FFF iPhone 11 Case"
 excerpt: "iPhone 11 fabricated using Fused Filament Fabricstion (FFF)"
 header:
-  image: /assets/img/MM-Plier.jpg
-  teaser: /assets/img/MM-Plier.jpg
+  image: /assets/img/MM-Plier.png
+  teaser: /assets/img/MM-Plier.png
 gallery:
   - image_path: /assets/img/MM-Plier.png
     alt: "Mult-material, print-in-place plier"
