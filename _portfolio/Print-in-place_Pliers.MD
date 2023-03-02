@@ -10,7 +10,7 @@ gallery:
     image_path: /assets/img/MM-Plier.png
     alt: "Mult-material, print-in-place plier"
   - url: /assets/img/MM-Plier-Rendering_IsometricView.PNG
-    image_path: /assets/img/MM-Plier-Rendering_IsometricView.PNG
+    image_path: /assets/img/MM-Plier-Rendering_IsometricView.PNG 
     alt: "Isometric view of mult-material, print-in-place plier"
   - url: /assets/img/FlexPlierJoint-Rendering_IsometricView.PNG
     image_path: /assets/img/FlexPlierJoint-Rendering_IsometricView.PNG
