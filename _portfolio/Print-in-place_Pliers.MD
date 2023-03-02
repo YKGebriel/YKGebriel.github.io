@@ -9,20 +9,20 @@ gallery:
   - url: /assets/img/MM-Plier.png
     image_path: /assets/img/MM-Plier.png
     alt: "Mult-material, print-in-place plier"
-  - url: /assets/img/MM-Plier-Rendering_IsometricView.PNG
-    image_path: /assets/img/MM-Plier-Rendering_IsometricView.PNG
+  - url: /assets/img/MM-Plier-Rendering_IsometricView.png
+    image_path: /assets/img/MM-Plier-Rendering_IsometricView.png
     alt: "Isometric view of mult-material, print-in-place plier"
-  - url: /assets/img/FlexPlierJoint-Rendering_IsometricView.PNG
-    image_path: /assets/img/FlexPlierJoint-Rendering_IsometricView.PNG
+  - url: /assets/img/FlexPlierJoint-Rendering_IsometricView.png
+    image_path: /assets/img/FlexPlierJoint-Rendering_IsometricView.png
     alt: "Isometric view of print-in-place flexible plier joint"
-  - url: /assets/img/MM-Plier-Rendering_TopView.PNG
-    image_path: /assets/img/MM-Plier-Rendering_TopView.PNG
+  - url: /assets/img/MM-Plier-Rendering_TopView.png
+    image_path: /assets/img/MM-Plier-Rendering_TopView.png
     alt: "Top view of mult-material, print-in-place plier"
-  - url: /assets/img/FlexPlierJoint-Rendering_TopView.PNG
-    image_path: /assets/img/FlexPlierJoint-Rendering_TopView.PNG
+  - url: /assets/img/FlexPlierJoint-Rendering_TopView.png
+    image_path: /assets/img/FlexPlierJoint-Rendering_TopView.png
     alt: "Isometric view of print-in-place flexible plier joint"
-  - url: /assets/img/MM-Plier-Rendering_AngledSideView.PNG
-    image_path: /assets/img/MM-Plier-Rendering_AngledSideView.PNG
+  - url: /assets/img/MM-Plier-Rendering_AngledSideView.png
+    image_path: /assets/img/MM-Plier-Rendering_AngledSideView.png
     alt: "Angled side view of mult-material, print-in-place plier"
    
 ---
