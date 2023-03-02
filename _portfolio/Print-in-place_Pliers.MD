@@ -37,12 +37,12 @@ gallery:
 
 ## Print Settings
 ### Filament Settings
-  | Filament | TPU | PLA |
-  | :---: | :---: | :---: |
-  | Extruder Temp | 240 C | 215 C (first layer), 210 C (subsequet layers) |
-  | Bed Temp | 60 C | 60 C |
-  | Max Print Speed | 25 mm/s | N/A |
-  | Retraction Speed | 15 mm/s | 40 mm/s |
+| Filament | TPU | PLA |
+| :---: | :---: | :---: |
+| Extruder Temp | 240 C | 215 C (first layer), 210 C (subsequet layers) |
+| Bed Temp | 60 C | 60 C |
+| Max Print Speed | 25 mm/s | N/A |
+| Retraction Speed | 15 mm/s | 40 mm/s |
 
 ### Printer Settings
   Wipe Tower enabled for multi-extruder print
