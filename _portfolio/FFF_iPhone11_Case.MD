@@ -6,18 +6,9 @@ header:
   alt: "Mult-material, print-in-place plier"
   teaser: /assets/img/MM-Plier.png
 gallery:
-  - image_path: /assets/img/MM-Plier.png
+  - url: /assets/img/MM-Plier.png
+    image_path: /assets/img/MM-Plier.png
     alt: "Mult-material, print-in-place plier"
-  - image_path: /assets/img/MM-Plier-Rendering_IsometricView.PNG
-    alt: "Isometric view of mult-material, print-in-place plier"
-  - image_path: /assets/img/FlexPlierJoint-Rendering_IsometricView.PNG
-    alt: "Isometric view of print-in-place flexible plier joint"
-  - image_path: /assets/img/MM-Plier-Rendering_TopView.PNG
-    alt: "Top view of mult-material, print-in-place plier"
-  - image_path: /assets/img/FlexPlierJoint-Rendering_TopView.PNG
-    alt: "Isometric view of print-in-place flexible plier joint"
-  - image_path: /assets/img/MM-Plier-Rendering_AngledSideView.PNG
-    alt: "Angled side view of mult-material, print-in-place plier"
    
 ---
 ## Project Description
