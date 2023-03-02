@@ -5,9 +5,9 @@ header:
   image: /assets/img/MM-Plier.jpg
   teaser: /assets/img/MM-Plier.jpg
 gallery:
-  - image_path: /assets/img/MM-Plier.jpg
+  - image_path: /assets/img/MM-Plier.png
     alt: "Mult-material, print-in-place plier"
-  - image_path: /assets/img/MM-Plier-Rendering_IsoetricView.PNG
+  - image_path: /assets/img/MM-Plier-Rendering_IsometricView.PNG
     alt: "Isometric view of mult-material, print-in-place plier"
   - image_path: /assets/img/FlexPlierJoint-Rendering_IsometricView.PNG
     alt: "Isometric view of print-in-place flexible plier joint"
