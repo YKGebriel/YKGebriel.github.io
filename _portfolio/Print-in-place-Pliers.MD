@@ -4,6 +4,8 @@ header:
   image: /assets/img/MM-Plier.jpg
   teaser: /assets/img/MM-Plier.jpg
 gallery:
+  - image_path: /assets/img/MM-Plier.jpg
+  - alt: "Mult-material, print-in-place plier"
   - image_path: /assets/img/MM-Plier-Rendering_IsoetricView.PNG
   - alt: "Isometric view of mult-material, print-in-place plier"
   - image_path: /assets/img/FlexPlierJoint-Rendering_IsometricView.PNG
