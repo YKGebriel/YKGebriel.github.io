@@ -31,9 +31,9 @@ gallery:
 ## Design Features
 
 ## Plier Specifications
-*Jaw Length: 3 cm
-*Jaw Capacity: 0.5 cm
-*Jaw Thickness: 0.6 cm
+* Jaw Length: 3 cm
+* Jaw Capacity: 0.5 cm
+* Jaw Thickness: 0.6 cm
 
 ## Print Settings
 ### Filament Settings
