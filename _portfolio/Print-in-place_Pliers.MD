@@ -2,10 +2,10 @@
 title: "Print-in-place Pliers"
 excerpt: "Pliers composed of multiple materials printed on dual extrusion printer"
 header:
-  image: /assets/img/MM-Plier.jpg
-  teaser: /assets/img/MM-Plier.jpg
+  image: /assets/img/MM-Plier.PNG
+  teaser: /assets/img/MM-Plier.PNG
 gallery:
-  - image_path: /assets/img/MM-Plier.jpg
+  - image_path: /assets/img/MM-Plier.PNG
     alt: "Mult-material, print-in-place plier"
   - image_path: /assets/img/MM-Plier-Rendering_IsoetricView.PNG
     alt: "Isometric view of mult-material, print-in-place plier"
