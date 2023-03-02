@@ -1,12 +1,19 @@
 title: "Print-in-place Pliers"
 excerpt: "Pliers composed of multiple materials printed on dual extrusion printer"
 header:
-  image: /assets/img/Syringe-Pump_ IsometricView.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/img/MM-Plier.jpg
+  teaser: /assets/img/MM-Plier.jpg
 gallery:
-  - image_path: /assets/img/Syringe-Pump- Rendering_ IsometricView.jpg
-  - image_path: /assets/img/Syringe-Pump_ SideView.jpg
-  - image_path: /assets/img/Syringe-Pump- Rendering_ SideView.jpg
+  - image_path: /assets/img/MM-Plier-Rendering_IsoetricView.PNG
+  - alt: "Isometric view of mult-material, print-in-place plier"
+  - image_path: /assets/img/FlexPlierJoint-Rendering_IsometricView.PNG
+  - alt: "Isometric view of print-in-place flexible plier joint"
+  - image_path: /assets/img/MM-Plier-Rendering_TopView.PNG
+  - alt: "Top view of mult-material, print-in-place plier"
+  - image_path: /assets/img/FlexPlierJoint-Rendering_TopView.PNG
+  - alt: "Isometric view of print-in-place flexible plier joint"
+  - image_path: /assets/img/MM-Plier-Rendering_AngledSideView.PNG
+  - alt: "Angled side view of mult-material, print-in-place plier"
    
 ---
 ## Project Description
