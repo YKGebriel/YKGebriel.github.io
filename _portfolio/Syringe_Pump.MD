@@ -6,11 +6,11 @@ header:
   teaser: /assets/img/Syringe-Pump- Rendering_ IsometricView.jpg
 gallery:
   - image_path: /assets/img/Syringe-Pump- Rendering_ IsometricView.jpg
-  - alt: "Isometric View of Syringe Pump Rendering"
+    alt: "Isometric View of Syringe Pump Rendering"
   - image_path: /assets/img/Syringe-Pump_ SideView.jpg
-  - alt: "Side View of Syringe Pump Prototype"
+    alt: "Side View of Syringe Pump Prototype"
   - image_path: /assets/img/Syringe-Pump- Rendering_ SideView.jpg
-  - alt: "Side View of Syringe Pump Rendering"
+    alt: "Side View of Syringe Pump Rendering"
    
 ---
 ## Features
