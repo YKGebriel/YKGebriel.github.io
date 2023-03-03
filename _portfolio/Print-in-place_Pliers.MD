@@ -42,7 +42,7 @@ gallery:
 | :---: | :---: | :---: |
 | Extruder Temp | 240 C | 215 C (first layer), 210 C (subsequent layers) |
 | Bed Temp | 60 C | 60 C |
-| Max Print Speed | 25 mm/s | N/A |
+| Max Print Speed | 25 mm/s | --- |
 | Retraction Speed | 15 mm/s | 40 mm/s |
 
 ### Printer Settings
