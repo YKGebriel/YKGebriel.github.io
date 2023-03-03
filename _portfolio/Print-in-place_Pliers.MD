@@ -27,6 +27,7 @@ gallery:
    
 ---
 ## Project Description
+
 |  Print-in-place models are functional multiple-component designs which work immediately after removal from the print bed. Unlike other multiple-component models, these models require no post-processing or assembly.
 
 |  Print-in-place models can be created through the extrusion of a single material by carefully designing models and orienting the prints to allow for clearance between printed joints where motion or rotation is needed. However, even with optimized print settings, print-in-place models can be plagued by discrete, non-fluid movement due to the irregularities of plastic extrusion. As such, an alternative method to obtain useful motion in print-in-place models is to include a flexible component in the model, such as a thin piece of a rigid plastic or a second elastomeric material. This flexible component allows for an easier transmission of force within the model resulting in a more fluid movement as the model moves through its range of motion.
@@ -52,6 +53,7 @@ gallery:
 | **Retraction Speed** | 40 mm/s | 15 mm/s |
 
 ### Printer Settings
+
 |  The optional wipe tower feature was enabled during the print of the multi-material print-in-place pliers. In order for the MakerGear M3 IDEX 3D printer to transition between materials during the printing process, both nozzles must be keep near the printing temperature for their corresponding filament. This means that as one nozzle is extrudes filament the other, while not programmed to extrude anything at this point in the process, still leaking molten filament away from the build plate. This leaked material can then be caught on the designed part the next time the nozzles change.
   
 |  By enabling the wipe tower feature, every time there is a nozzle/tool change, the new extruder will lay down a layer of filament away from the desired part before then moving to lay down the next layer of the designed part. This allows the extruder time to purge the discharged filament as well as any molten material in the nozzle and prime new filament for the next layer of the designed part. As this process occurs with every tool change, the end result is the creation of a distinct structure separate from the desired part composed of material from both extruders.
