@@ -37,6 +37,7 @@ gallery:
 
 ## Print Settings
 ### Filament Settings
+
 | Filament | TPU | PLA |
 | :---: | :---: | :---: |
 | Extruder Temp | 240 C | 215 C (first layer), 210 C (subsequet layers) |
