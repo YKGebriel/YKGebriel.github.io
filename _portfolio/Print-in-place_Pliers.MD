@@ -31,7 +31,7 @@ gallery:
 
 |  Print-in-place models can be created through the extrusion of a single material by carefully designing models and orienting the prints to allow for clearance between printed joints where motion or rotation is needed. However, even with optimized print settings, print-in-place models can be plagued by discrete, non-fluid movement due to the irregularities of plastic extrusion. As such, an alternative method to obtain useful motion in print-in-place models is to include a flexible component in the model, such as a thin piece of a rigid plastic or a second elastomeric material. This flexible component allows for an easier transmission of force within the model resulting in a more fluid movement as the model moves through its range of motion.
 
-|  The objective of this project was to design and fabricate a needle nose plier capable of picking up pellets with an approximate diameter of 3 cm. The pliers need to be able to grip the pellets before then moving them to another location and releasing them. Additionally, the pliers needed to contain a spring component made from a flexible material, in this case thermoplastic polyurethane (TPU), that would return the pliers to their open position when not in use.
+|  The objective of this project was to design and fabricate a needle nose plier capable of picking up pellets with an approximate diameter of 3 cm. The pliers need to be able to grip the pellets before then moving them to another location and releasing them. Additionally, the pliers needed to contain a spring component made from a flexible material, in this case thermoplastic polyurethane (TPU) 95A, that would return the pliers to their open position when not in use.
 
 ## Design Features
 
@@ -44,12 +44,12 @@ gallery:
 ## Print Settings
 ### Filament Settings
 
-| Filament | TPU | PLA |
+| Filament | PLA | TPU 95A |
 | :---: | :---: | :---: |
-| **Extruder Temp** | 240 C | 215 C (*first layer*), 210 C (*subsequent layers*) |
+| **Extruder Temp** | 215 C (*first layer*), 210 C (*subsequent layers*) | 240 C |
 | **Bed Temp** | 60 C | 60 C |
-| **Max Print Speed** | 25 mm/s | --- |
-| **Retraction Speed** | 15 mm/s | 40 mm/s |
+| **Max Print Speed** | --- | 25 mm/s |
+| **Retraction Speed** | 40 mm/s | 15 mm/s |
 
 ### Printer Settings
 |  The optional wipe tower feature was enabled during the print of the multi-material print-in-place pliers. In order for the MakerGear M3 IDEX 3D printer to transition between materials during the printing process, both nozzles must be keep near the printing temperature for their corresponding filament. This means that as one nozzle is extrudes filament the other, while not programmed to extrude anything at this point in the process, still leaking molten filament away from the build plate. This leaked material can then be caught on the designed part the next time the nozzles change.
