@@ -9,12 +9,12 @@ gallery:
   - url: /assets/img/Syringe-Pump-Rendering_IsometricView.png
     image_path: /assets/img/Syringe-Pump-Rendering_IsometricView.png
     alt: "Isometric view of syringe pump rendering"
-  - url: /assets/img/Syringe-Pump_ IsometricView.jpg
-    image_path: /assets/img/Syringe-Pump_ IsometricView.jpg
-    alt: "Isometric view of syringe pump"
   - url: /assets/img/Syringe-Pump-Rendering_Alt-IsometricView.png
     image_path: /assets/img/Syringe-Pump-Rendering_Alt-IsometricView.png
     alt: "Alternate isometric view of syringe pump rendering"
+  - url: /assets/img/Syringe-Pump_ IsometricView.jpg
+    image_path: /assets/img/Syringe-Pump_ IsometricView.jpg
+    alt: "Isometric view of syringe pump"
   - url: /assets/img/Syringe-Pump-Rendering_SideView.png
     image_path: /assets/img/Syringe-Pump-Rendering_SideView.png
     alt: "Side view of syringe pump rendering"
