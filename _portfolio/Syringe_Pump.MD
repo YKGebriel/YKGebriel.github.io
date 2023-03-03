@@ -9,8 +9,8 @@ gallery:
   - url: /assets/img/Syringe-Pump-Rendering_IsometricView.png
     image_path: /assets/img/Syringe-Pump-Rendering_IsometricView.png
     alt: "Isometric view of syringe pump rendering"
-  - url: /assets/img/Syringe-Pump_IsometricView.jpg
-    image_path: /assets/img/Syringe-Pump_IsometricView.jpg
+  - url: /assets/img/Syringe-Pump_ IsometricView.jpg
+    image_path: /assets/img/Syringe-Pump_ IsometricView.jpg
     alt: "Isometric view of syringe pump"
   - url: /assets/img/Syringe-Pump-Rendering_Alt-IsometricView.png
     image_path: /assets/img/Syringe-Pump-Rendering_Alt-IsometricView.png
@@ -18,11 +18,8 @@ gallery:
   - url: /assets/img/Syringe-Pump-Rendering_SideView.png
     image_path: /assets/img/Syringe-Pump-Rendering_SideView.png
     alt: "Side view of syringe pump rendering"
-  - url: /assets/img/Syringe-Pump-Rendering_SideView.png
-    image_path: /assets/img/Syringe-Pump-Rendering_SideView.png
-    alt: "Side View of Syringe Pump Rendering"
-  - url: /assets/img/Syringe-Pump_SideView.jpg
-    image_path: /assets/img/Syringe-Pump_SideView.jpg
+  - url: /assets/img/Syringe-Pump_ SideView.jpg
+    image_path: /assets/img/Syringe-Pump_ SideView.jpg
     alt: "Side view of syringe pump"
 
 ---
