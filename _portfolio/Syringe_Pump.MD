@@ -3,14 +3,14 @@ title: "Syringe Pump"
 excerpt: "DIY syringe capable of a 1 uL/min flow rate up to a 10 mL/min flow rate."
 header:
   image: /assets/img/Syringe-Pump_ IsometricView.jpg
-  alt: "Isometric view of syringe pump rendering"
+  alt: "Isometric view of syringe pump"
   teaser: /assets/img/Syringe-Pump-Rendering_IsometricView.png
 gallery:
   - url:/assets/img/Syringe-Pump-Rendering_IsometricView.png
     image_path: /assets/img/Syringe-Pump-Rendering_IsometricView.png
     alt: "Isometric view of syringe pump rendering"
-  - url:/assets/img/Syringe-Pump_IsometricView.png
-    image_path: /assets/img/Syringe-Pump_IsometricView.png
+  - url:/assets/img/Syringe-Pump_IsometricView.jpg
+    image_path: /assets/img/Syringe-Pump_IsometricView.jpg
     alt: "Isometric view of syringe pump"
   - url:/assets/img/Syringe-Pump-Rendering_Alt-IsometricView.png
     image_path: /assets/img/Syringe-Pump-Rendering_Alt-IsometricView.png
@@ -20,8 +20,8 @@ gallery:
     alt: "Side view of syringe pump rendering"
   - image_path: /assets/img/Syringe-Pump- Rendering_ SideView.jpg
     alt: "Side View of Syringe Pump Rendering"
-  - url:/assets/img/Syringe-Pump_SideView.png
-    image_path: /assets/img/Syringe-Pump_SideView.png
+  - url:/assets/img/Syringe-Pump_SideView.jpg
+    image_path: /assets/img/Syringe-Pump_SideView.jpg
     alt: "Side view of syringe pump"
 
 ---
