@@ -19,6 +19,7 @@ gallery:
 
 ## Print Settings
 ### Filament Settings
+
   | Filaament | TPU |
   | :---: | :---: | :---: |
   | Extruder Temp | 240 C |
