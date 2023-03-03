@@ -17,13 +17,13 @@ gallery:
 
 ## Required Parts
 
-#### Off-the-Shelf parts
-
-| 200 mm lead screw w/ 2 mm pitch & lead |
-| 1/4" x 8 mm flexible coupler |
-| 200 mm linear rod with 8 mm diameter |
-| LM8UU linear bearing for 8 mm diameter rod |
-| Nema 17 Stepper Motor |
+| Off-the-Shelf parts | 3D Printed parts |
+| :---: | :---: |
+| 200 mm lead screw w/ 2 mm pitch & lead | Pump Base (Bottom) |
+| 1/4" x 8 mm flexible coupler | Pump Base (Top) |
+| 200 mm linear rod with 8 mm diameter | Syringe Body Support |
+| LM8UU linear bearing for 8 mm diameter rod | Syringe Plunger Support |
+| Nema 17 Stepper Motor |Motor Mount |
 | MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp |
 | Arduino Uno |
 | A4988 Stepper Driver |
@@ -32,13 +32,15 @@ gallery:
 | Limit Switch |
 | RGB Common Cathode LED |
 
-#### 3D Printed parts
 
+<!--
+#### 3D Printed parts
 | Pump Base (Bottom) |
 | Pump Base (Top) |
 | Syringe Body Support |
 | Syringe Plunger Support |
 | Motor Mount |
+-->
 
 ## Arduino Code
 [Syringe Pump Arduino Code](/assets/img/Syringe_Pump_Arduino_Code.MD)
