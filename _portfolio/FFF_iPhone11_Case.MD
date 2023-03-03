@@ -4,8 +4,7 @@ excerpt: "iPhone 11 fabricated using Fused Filament Fabricstion (FFF)"
 header:
   image: /assets/img/MM-Plier.png
   alt: "Mult-material, print-in-place plier"
-  teaser: <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43cc211088f1e23722?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
+  teaser: /assets/img/MM-Plier.png
 gallery:
   - url: /assets/img/MM-Plier.png
     image_path: /assets/img/MM-Plier.png
