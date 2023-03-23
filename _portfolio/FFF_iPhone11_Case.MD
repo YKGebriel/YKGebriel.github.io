@@ -1,6 +1,6 @@
 ---
 title: "FFF iPhone 11 Case"
-excerpt: "iPhone 11 fabricated using Fused Filament Fabricstion (FFF)"
+excerpt: "iPhone 11 case fabricated using Fused Filament Fabricstion (FFF)"
 header:
   image: /assets/img/IPhone11_Case_Rendering_IsometericView.png
   alt: "Isometeric View of IPhone 11 case rendering"
