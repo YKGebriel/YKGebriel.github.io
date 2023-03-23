@@ -2,14 +2,17 @@
 title: "FFF iPhone 11 Case"
 excerpt: "iPhone 11 fabricated using Fused Filament Fabricstion (FFF)"
 header:
-  image: /assets/img/MM-Plier.png
-  alt: "Mult-material, print-in-place plier"
-  teaser: /assets/img/MM-Plier.png
+  image: /assets/img/IPhone11_Case_Rendering_IsometericView.png
+  alt: "Isometeric View of IPhone 11 case rendering"
+  teaser: /assets/img/IPhone11_Case_Rendering_IsometericView.png
 gallery:
-  - url: /assets/img/MM-Plier.png
-    image_path: /assets/img/MM-Plier.png
-    alt: "Mult-material, print-in-place plier"
-   
+  - url: /assets/img/IPhone11_Case_Rendering_IsometericView.png
+    image_path: /assets/img/IPhone11_Case_Rendering_IsometericView.png
+    alt: "Isometeric View of IPhone 11 case rendering"
+  - url: /assets/img/IPhone11_Case_Rendering_Alt-IsometericView.png
+    image_path: /assets/img/IPhone11_Case_Rendering_Alt-IsometericView.png
+    alt: "Alternative Isometeric View of IPhone 11 case rendering"
+
 ---
 ## Project Description
    
