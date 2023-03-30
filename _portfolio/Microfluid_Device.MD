@@ -14,7 +14,7 @@ gallery:
     alt: 
 
 ---
-## Micro Fluid Device Demo
+## Microfluid Device Demo
 
 ## Device Description & Applications
 
