@@ -21,6 +21,7 @@ gallery:
 ## Design Features & Fabrication
 
 ## Print Settings
+
 | Form 3+ SLA 3D Printer |
 | :---: | :---: |
 | **Resin** | Black V4 |
