@@ -23,7 +23,7 @@ gallery:
 ## Print Settings
 
 | Form 3+ SLA 3D Printer |
-| :---: |
+| :---: | :---: |
 | **Resin** | Black V4 |
 | **Layer thickness** | 0.025 mm (high resolution) |
 | **Print Settings** | Default |
