@@ -45,6 +45,11 @@ The objective of this project was to design and fabricate a needle nose plier ca
 ## Print Settings
 ### Filament Settings
 
+| Filament | Extruder Temp | Bed Temp | Max Print Speed | Retraction Speed |
+| :---: | :---: | :---: | :---: | :---: |
+| **PLA** | 215 C (*first layer*), 210 C (*subsequent layers*) |  60 C | --- | 40 mm/s |
+| **TPU 95A** | 240 C | 60 C | 25 mm/s | 15 mm/s |
+
 | Filament | PLA | TPU 95A |
 | :---: | :---: | :---: |
 | **Extruder Temp** | 215 C (*first layer*), 210 C (*subsequent layers*) | 240 C |
