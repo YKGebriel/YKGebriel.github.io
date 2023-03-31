@@ -21,7 +21,7 @@ gallery:
 ## Design Features & Fabrication
 
 ## Print Settings
-######Form 3+ SLA 3D Printer
+###### Form 3+ SLA 3D Printer
 
 | **Resin** | **Layer thickness** | **Print Settings** |
 | :---: | :---: | :---: |
