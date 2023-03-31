@@ -21,12 +21,11 @@ gallery:
 ## Design Features & Fabrication
 
 ## Print Settings
+######Form 3+ SLA 3D Printer
 
-| Form 3+ SLA 3D Printer |
-| :---: | :---: |
-| **Resin** | Black V4 |
-| **Layer thickness** | 0.025 mm (high resolution) |
-| **Print Settings** | Default |
+| **Resin** | **Layer thickness** | **Print Settings** |
+| :---: | :---: | :---: |
+| Black V4 | 0.025 mm (high resolution) | Default |
 
 ## CAD Model
 #### Microfluid Device Mold
