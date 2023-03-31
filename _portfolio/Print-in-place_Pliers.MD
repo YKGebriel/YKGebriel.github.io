@@ -50,13 +50,6 @@ The objective of this project was to design and fabricate a needle nose plier ca
 | **PLA** | 215 C (*first layer*), 210 C (*subsequent layers*) |  60 C | --- | 40 mm/s |
 | **TPU 95A** | 240 C | 60 C | 25 mm/s | 15 mm/s |
 
-| Filament | PLA | TPU 95A |
-| :---: | :---: | :---: |
-| **Extruder Temp** | 215 C (*first layer*), 210 C (*subsequent layers*) | 240 C |
-| **Bed Temp** | 60 C | 60 C |
-| **Max Print Speed** | --- | 25 mm/s |
-| **Retraction Speed** | 40 mm/s | 15 mm/s |
-
 ### Printer Settings
 
 The optional wipe tower feature was enabled during the print of the multi-material print-in-place pliers. In order for the MakerGear M3 IDEX 3D printer to transition between materials during the printing process, both nozzles must be keep near the printing temperature for their corresponding filament. This means that as one nozzle is extrudes filament the other, while not programmed to extrude anything at this point in the process, still leaking molten filament away from the build plate. This leaked material can then be caught on the designed part the next time the nozzles change.
