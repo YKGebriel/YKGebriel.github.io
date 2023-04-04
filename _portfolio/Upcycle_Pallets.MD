@@ -27,10 +27,10 @@ gallery:
    
 ---
 ## Project Team
-* **Yadale Gebriel**, *Vanderbilt University*, Mechanical Engineering
-* **Rachel Fan**, *Vanderbilt University*, Mathematics
-* **Isaac Oladipupo**, *Vanderbilt University*, Engineering Science
-* **Amber Terry**, *Vanderbilt University*, Mechanical Engineering
+* **Yadale Gebriel**, *Vanderbilt University*, Mechanical Engineering (*Class of '24*)
+* **Rachel Fan**, *Vanderbilt University*, Mathematics (*Class of '22*)
+* **Isaac Oladipupo**, *Vanderbilt University*, Engineering Science (*Class of '22*)
+* **Amber Terry**, *Vanderbilt University*, Mechanical Engineering (*Class of '22*)
 
 ## Problem Description
 The Tennessee Materials Marketplace needs to establish convenient and reliable partnerships between organizations to distributing waste materials for reuse or recycling rather than disposal. Creating these connections is especially important because there is no dedicated central storage space for materials. Pallets are one such material, and they are abundant and usually free on the Materials Marketplace listings. At the same time, college students need affordable, functional, and attractive furniture that is also easy to assemble and store because they want to maximize their quality of life while living in temporary and compact spaces with limited budgets. Could pallets be transformed from industrial uses to college dorm furniture to address both problems?
