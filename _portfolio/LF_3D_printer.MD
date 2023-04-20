@@ -21,6 +21,6 @@ gallery:
 
 ## Generative Design & Printing Process
 
-## Applications of Generative Design & Large Format 3D printing in Plantary-surface Construction
+## Applications of Generative Design & Large Format 3D printing in Planetary-surface Construction
 
 ## Scale Model of Generative Design Podium
