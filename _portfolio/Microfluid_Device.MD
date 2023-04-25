@@ -1,10 +1,10 @@
 ---
 title: "Vat Photopolymerization Printing of Microfluidic Devices"
-excerpt: "Homogeneous Mixing Microfluid Device"
+excerpt: "Microfluid homogeneous mixing device created from cured resin mold"
 header:
-  image: /assets/img/Microfluid-Device_View1.jpg 
+  image: /assets/img/Microfluid-Device_View1.jpg
   alt: Top view of angled Homogeneous Mixing Microfluid Device
-  teaser: Microfluid homogeneous mixing device created from cured resin mold 
+  teaser: /assets/img/Microfluid-Device_View1.jpg
 gallery:
   - url: /assets/img/Microfluid-Device_View1.jpg
     image_path: /assets/img/Microfluid-Device_View1.jpg
