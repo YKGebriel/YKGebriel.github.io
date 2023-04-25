@@ -1,6 +1,6 @@
 ---
 title: "Large Format 3D-printed Generative Design Podium"
-excerpt: "Generative deisgn podium fabricated on large format 3D printer"
+excerpt: "Generative deisgn podium designed for fabrication on large format 3D printer"
 header:
   image: 
   alt: 
@@ -16,7 +16,7 @@ gallery:
 ---
 ## CAD Model
 #### Generative Design Podium
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e436ef03eacbd3864ff?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ef87e353687cd2c94?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 {% include gallery caption="Large Format 3D-printed Generative Design Podium" %}
 
 ## Generative Design & Printing Process
