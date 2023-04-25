@@ -57,6 +57,7 @@ The optional wipe tower feature was enabled during the print of the multi-materi
 By enabling the wipe tower feature, every time there is a nozzle/tool change, the new extruder will lay down a layer of filament away from the desired part before then moving to lay down the next layer of the designed part. This allows the extruder time to purge the discharged filament as well as any molten material in the nozzle and prime new filament for the next layer of the designed part. As this process occurs with every tool change, the end result is the creation of a distinct structure separate from the desired part composed of material from both extruders.
 
 ## CAD Model
+### Multi-material Print-in-place Pliers
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4374907dc0d2424dfb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Print-in-place Plier Gallery" %}
