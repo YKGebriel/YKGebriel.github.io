@@ -6,12 +6,12 @@ header:
   alt: 
   teaser: 
 gallery:
-  - url: 
-    image_path: 
-    alt: 
-  - url: 
-    image_path: 
-    alt: 
+  - url: assets/img/LF3D-Printed-Podium-Model_IsometricView.jpg
+    image_path: assets/img/LF3D-Printed-Podium-Model_IsometricView.jpg
+    alt: Isometric View of Large Format 3D printed podium model
+  - url: assets/img/LF3D-Printed-Podium-Model_Alt-IsometricView.jpg
+    image_path: assets/img/LF3D-Printed-Podium-Model_Alt-IsometricView.jpg
+    alt: Alternative Isometric View of Large Format 3D printed podium model
 
 ---
 ## CAD Model
